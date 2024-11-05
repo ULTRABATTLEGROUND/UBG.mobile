@@ -1,0 +1,19 @@
+p {
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+.a{
+    border-color: #101010;
+    text-align: center;
+    text-decoration: none;
+    color: #626262;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #ddd;
+    transition: background-color 0.3s ease;
+}
+.a:hover{
+    transition: all 2s;
+    background-color: #aaa;
+    color: #fff;
+}
